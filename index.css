@@ -1,0 +1,88 @@
+body{
+    background-color: lightgrey;
+}
+.row{
+    background-color: #334d4d;
+    
+    
+}
+.fa
+{
+    padding: 15px;
+    color: white;
+}
+
+h4{
+    text-align:center;
+    padding: 15px;
+    font-size: 20px;
+    margin: 2px;
+    color: white;
+    font-weight: 500;
+}
+.cols{
+    background-color: #334d4d;
+
+}
+.b1{
+    height: 500px;
+    width: 300px;
+    margin-top: 85px;
+    margin-left: 60px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    background-color: #334d4d;
+}
+.b2{
+    height: 50px;
+    width: 650px;
+    margin-top: 105px;
+    margin-left: 600px;
+    border-radius: 10px;
+    background-color: #334d4d;
+
+}
+.b3{
+    height: 150px;
+    width: 250px;
+    margin-top: 65px;
+    margin-left: 450px;
+    border-radius: 10px;
+    background-color: #334d4d;
+}
+
+.b4{
+    height: 150px;
+    width: 250px;
+    margin-top: 65px;
+    margin-left: 350px;
+    border-radius: 10px;
+    background-color: #334d4d;
+
+}
+
+.b5{
+    height: 150px;
+    width: 250px;
+    margin-top: 65px;
+    margin-left: 350px;
+    border-radius: 10px;
+    background-color: #334d4d;
+}
+.b6{
+    height: 150px;
+    width: 950px;
+    margin-top: 45px;
+    margin-left: -350px;
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: #334d4d;
+}
+
+p{
+    color:  lightgrey;
+    font-family:'Courier New', Courier, monospace;
+    padding: 10px;
+    padding-left: 20px;
+    font-size: 20px;
+}
